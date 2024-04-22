@@ -1,6 +1,6 @@
 Repositorio GITHUB de Darío Gómez
 
-![Imagen de Portada](Repositorio/perro.jpg)
+![Imagen de Portada](Repositorio/gato.avif)
 
 ## Descripción
 Breve descripción del proyecto, objetivos y funcionalidades principales.
